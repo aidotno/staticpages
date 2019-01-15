@@ -1,0 +1,17 @@
+https://codeburst.io/create-a-static-site-in-15-minutes-or-less-using-vue-js-e4e2a9945ee6
+
+
+Feature this post in listings - If enabled, then the post will be highlighted on listing pages such as tag pages, so that more visitors will notice it.
+Hide this post in listings - Enabling this option will stop the post from appearing on listing pages, such as author or tag pages.
+Featured Image - The featured image usually appears at the top of the post and is also used as the post-preview picture. To add a featured image to your post you can either drag and drop an image onto the Featured Image box, or click on the Choose File button to open a file explorer window to select a photo from your computer.
+Alternative Text - This option is only available if you have a featured image set. Here, you can add text that will be displayed if the image cannot load, or read by a screen-reader used by visually-impaired users to describe the photo.
+Caption - Another featured-image-only option, text added here will be added as a caption under the photo.
+Credits - Name or other text added here will appear as a credit, letting people know who took the picture or owns the copyright if it is not your own.
+Tags - This field sets which tags (categories) the post should be attached to, so users will see it when browsing posts by tags.
+Post Slug - The post slug is a URL-friendly version of the post title, without spaces or special characters. If left blank Publii will automatically generate this, so it can be ignored if you're not sure what to do!
+Page Title/Meta Description - These two fields provide the meta-data for the post; this data is used by search engines and may be displayed in search results, but can be ignored if preferred.
+Meta Robots Index - This option decides what permissions search engine 'robots', which log webpage data and generate search results, have. Index will allow the search engines to include your page in search results, while Follow will allow the search engine robots to follow links on the post to provide more nuanced results. If you're not familiar with this setting you can leave it at the default.
+Post Template - If available, this option will let you choose a post layout; whether additional layouts are available depends on the theme you are using.
+Display X (where X is an element from the post page) - The display options allow you to enable or disable individual post elements, such as share buttons, author bio etc...The global options are defined in the Theme Settings; options here are to override the global settings for a single post.
+Navigation Color - Defines whether navigation buttons to move between posts on the tag are dark or light colored; this should be set depending on the coloring of your hero image e.g. an image with a dark background should use light navigation colors.
+
